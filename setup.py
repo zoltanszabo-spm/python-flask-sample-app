@@ -1,3 +1,6 @@
+'''
+ basic setup
+'''
 import io
 
 from setuptools import find_packages
